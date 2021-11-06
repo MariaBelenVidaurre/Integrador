@@ -1,5 +1,5 @@
 
-
+/*
 do{
     var delito = prompt('Qué caso es?')
     var reduccion= 5
@@ -17,3 +17,4 @@ do{
     }
     var hayMas=confirm('Tienes otro caso?')
 }while(hayMas== true)
+*/
